@@ -6,5 +6,7 @@ package com.sample.jagdeepsingh.githubexample;
 
 public class NewClass {
     public NewClass(){
+
+
     }
 }
